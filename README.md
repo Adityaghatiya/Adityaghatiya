@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Ghatiya</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+<h3 align="center">A passionate Java developerand cloud engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/816651876948b381a9d998556b03b5263f996ec1-800x600.png?w=667&h=500&auto=format">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaghatiya&label=Profile%20views&color=0e75b6&style=flat" alt="adityaghatiya" /> </p>
 
