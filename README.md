@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Aws Cloud, Java, Javascript, reactjs, html, css, docker, python, linux etc.  <br>🎯 Goals:Master AWS Cloud services for scalable and efficient deployments, become proficient in full-stack development using Java, JavaScript, React.js, HTML, and CSS, automate workflows with Docker and Python scripts, achieve expertise in Linux system administration, and ultimately, build innovative projects showcasing these skills, all while maintaining a sense of humor and efficiency! 😄. <br>🎲 Fun fact:  Did you know that the longest recorded "README.md" file on GitHub was so long, it took 3 days to scroll to the bottom? Just kidding, but seriously, keep your README concise and informative! 😄</p>
+<p align="left">📚 I'm currently learning Aws Cloud, Java, Javascript, reactjs, html, css, docker, python, linux etc.  <br><br>🎯 Goals:Master AWS Cloud services for scalable and efficient deployments, become proficient in full-stack development using Java, JavaScript, React.js, HTML, and CSS, automate workflows with Docker and Python scripts, achieve expertise in Linux system administration, and ultimately, build innovative projects showcasing these skills, all while maintaining a sense of humor and efficiency! 😄. <br><br>🎲 Fun fact:  Did you know that the longest recorded "README.md" file on GitHub was so long, it took 3 days to scroll to the bottom? Just kidding, but seriously, keep your README concise and informative! 😄</p>
 
 ###
 
@@ -25,8 +25,13 @@
   <a href="https://medium.com/@ghatiyaaditya" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
   </a>
+
+   <a href="https://wa.me/qr/HC4VCZ5O5GHPA1" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+     </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+
+
 </div>
 
 ###
@@ -88,9 +93,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Adityaghatiya/Adityaghatiya/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img height="202" src="https://th.bing.com/th/id/OIP.XFTt7n-7DSwFxvRL5GDIawAAAA?rs=1&pid=ImgDetMain"  />
